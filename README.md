@@ -36,3 +36,4 @@ Updated documentation
 Added ecosystem overview
 Added security best practices
 Added project references
+Updated resource list
