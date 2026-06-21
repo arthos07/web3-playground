@@ -49,3 +49,4 @@ Improved note structure
 Added ecosystem research
 Updated documentation links
 Added smart contract concepts
+Added Web3 trends
