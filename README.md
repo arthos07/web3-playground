@@ -40,3 +40,4 @@ Updated resource list
 Added protocol notes
 Improved README layout
 Added community resources
+Updated repository content
