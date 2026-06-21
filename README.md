@@ -22,3 +22,4 @@ Added DeFi concepts
 Added useful links
 Revised repository structure
 Added NFT research notes
+Updated project description
