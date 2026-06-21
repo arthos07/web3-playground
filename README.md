@@ -30,3 +30,4 @@ Added development resources
 Updated learning progress
 Added DAO research
 Added staking notes
+Improved repository organization
