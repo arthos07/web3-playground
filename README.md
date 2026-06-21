@@ -1,2 +1,6 @@
-# web3-playground
+# Web3 Playground
+
+## Daily Notes
+
+- Day 1# web3-playground
 Experiments, notes, and small projects related to Web3, blockchain, and decentralized technologies.
