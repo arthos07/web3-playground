@@ -14,3 +14,4 @@ Organized repository files
 Added Web3 resources
 Updated project goals
 Added Ethereum notes
+Added wallet security tips
