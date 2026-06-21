@@ -21,3 +21,4 @@ Updated learning roadmap
 Added DeFi concepts
 Added useful links
 Revised repository structure
+Added NFT research notes
