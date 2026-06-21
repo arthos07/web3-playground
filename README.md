@@ -17,3 +17,4 @@ Added Ethereum notes
 Added wallet security tips
 Improved documentation
 Added smart contract references
+Updated learning roadmap
