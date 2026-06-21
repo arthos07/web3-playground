@@ -34,3 +34,4 @@ Improved repository organization
 Added Web3 glossary
 Updated documentation
 Added ecosystem overview
+Added security best practices
