@@ -5,3 +5,6 @@
 - Day 1# web3-playground
 Experiments, notes, and small projects related to Web3, blockchain, and decentralized technologies.
 - Day 2: Learning GitHub commits
+- Day 3: Repository updates
+- Day 4: Added notes
+- Day 5: Web3 research
