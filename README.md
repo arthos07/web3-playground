@@ -48,3 +48,4 @@ Added learning materials
 Improved note structure
 Added ecosystem research
 Updated documentation links
+Added smart contract concepts
