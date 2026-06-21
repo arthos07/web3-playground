@@ -12,3 +12,4 @@ Updated README documentation
  Added blockchain learning notes
 Organized repository files
 Added Web3 resources
+Updated project goals
