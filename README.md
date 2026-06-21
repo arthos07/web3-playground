@@ -52,3 +52,4 @@ Added smart contract concepts
 Added Web3 trends
 Improved repository content
 Added educational resources
+Updated research notes
