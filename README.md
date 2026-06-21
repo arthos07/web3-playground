@@ -32,3 +32,4 @@ Added DAO research
 Added staking notes
 Improved repository organization
 Added Web3 glossary
+Updated documentation
