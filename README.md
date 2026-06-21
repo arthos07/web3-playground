@@ -35,3 +35,4 @@ Added Web3 glossary
 Updated documentation
 Added ecosystem overview
 Added security best practices
+Added project references
