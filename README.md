@@ -10,3 +10,4 @@ Experiments, notes, and small projects related to Web3, blockchain, and decentra
 - Day 5: Web3 research
 Updated README documentation
  Added blockchain learning notes
+Organized repository files
