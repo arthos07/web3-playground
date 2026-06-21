@@ -41,3 +41,4 @@ Added protocol notes
 Improved README layout
 Added community resources
 Updated repository content
+Added development notes
