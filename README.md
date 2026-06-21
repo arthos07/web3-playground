@@ -23,3 +23,4 @@ Added useful links
 Revised repository structure
 Added NFT research notes
 Updated project description
+Added blockchain terminology
