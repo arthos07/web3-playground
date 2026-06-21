@@ -42,3 +42,4 @@ Improved README layout
 Added community resources
 Updated repository content
 Added development notes
+Added blockchain use cases
