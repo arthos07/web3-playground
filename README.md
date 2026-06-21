@@ -28,3 +28,4 @@ Added Layer 2 notes
 Improved formatting
 Added development resources
 Updated learning progress
+Added DAO research
