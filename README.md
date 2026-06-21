@@ -39,3 +39,4 @@ Added project references
 Updated resource list
 Added protocol notes
 Improved README layout
+Added community resources
