@@ -25,3 +25,4 @@ Added NFT research notes
 Updated project description
 Added blockchain terminology
 Added Layer 2 notes
+Improved formatting
